@@ -1,23 +1,23 @@
-title : "SSE & AVX Vectorization"
+title : "Vectorización SSE y AVX"
 cover: /images/cover.png
 plan:
-  - title: "What is SSE and AVX?"
+  - title: "¿Qué es SSE y AVX?"
     statement: markdowns/intro.md
-  - title: Prerequisites
+  - title: Requisitos Previos
     statement: markdowns/prereq.md
-  - title: "Autovectorization"
+  - title: "Autovectorización"
     statement: markdowns/autovector.md
-  - title: "SSE and AVX Usage"
+  - title: "Uso de SSE y AVX"
     statement: markdowns/usage.md
-  - title: "First AVX Code: SQRT calculation"
+  - title: "Primer código AVX: Cálculo de Raiz Cuadrada"
     statement: markdowns/sqrt.md
-  - title: "SSE/AVX C++ Frameworks"
+  - title: "Frameworks C++ para SSE/AVX"
     statement: markdowns/frameworks.md
-  - title: "Masking and Conditional Load"
+  - title: "Máscaras y Carga Condicional"
     statement: markdowns/masking.md
-  - title: "Controlling the Data Flow"
+  - title: "Controlando el Flujo de Datos"
     statement: markdowns/dataflow.md
-  - title: "Final Words"
+  - title: "Conclusiones"
     statement: markdowns/final.md
 projects:
     avx:
